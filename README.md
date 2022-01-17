@@ -1,6 +1,7 @@
 
 # Identifying efficient ensemble perturbations for initializing subseasonal-to-seasonal prediction 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5865764.svg)](https://doi.org/10.5281/zenodo.5865764)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## General Information
